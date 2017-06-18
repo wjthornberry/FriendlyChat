@@ -1,5 +1,5 @@
 # FriendlyChat
-A web chat application using Firebase. Note: This is *not* my work – rather, it is the result of following Firebase's [FriendlyChat tutorial](https://codelabs.developers.google.com/codelabs/firebase-web/#1), which was great practice in getting more familiar with Firebase while challenging myself with some ideas I wasn't previously familiar with. 
+A web chat client using Firebase. Note: This is *not* my work – rather, it is the result of following Firebase's [FriendlyChat tutorial](https://codelabs.developers.google.com/codelabs/firebase-web/#1), which was great practice in getting more familiar with Firebase while challenging myself with some ideas I wasn't previously familiar with. 
 
 [Firebase FriendlyChat License](https://www.apache.org/licenses/LICENSE-2.0)
 
